@@ -38,10 +38,30 @@ Turning ideas into code, curiosity 🔍, and creativity 🎮
 
 ## 🧰 Languages & Tools
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+</p>
+
+</div>
+
+---
+
 ---
 
 ### 📈 GitHub Stats
 
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAlaa1&layout=compact&langs_count=8&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadAlaa1&show_icons=true&theme=radical)
+
+</div>
 ---
 
 ### 🤝 Connect With Me
