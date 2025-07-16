@@ -58,8 +58,8 @@ Turning ideas into code, curiosity 🔍, and creativity 🎮
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAlaa1&layout=compact&langs_count=8&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadAlaa1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adham-Elhawary&layout=compact&langs_count=8&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adham-Elhawary&show_icons=true&theme=radical)
 
 </div>
 ---
