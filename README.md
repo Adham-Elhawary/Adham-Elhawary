@@ -86,7 +86,6 @@ Turning ideas into code, curiosity 🔍, and creativity 🎮
 ### 🤝 Connect With Me
 
 <p align="center">
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhambassem1000000@gmail.com)
   <a href="https://www.linkedin.com/in/adham-elhawary-26944a2b3/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
