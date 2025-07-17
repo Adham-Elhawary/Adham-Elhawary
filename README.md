@@ -44,7 +44,13 @@ Turning ideas into code, curiosity 🔍, and creativity 🎮
 * 🎮 **Game Dev** – building 2D games with Pygame & beyond
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adham-Elhawary/Adham-Elhawary/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
+
+
+<div align="center">
 ---
 
 ## 🧰 Languages & Tools
